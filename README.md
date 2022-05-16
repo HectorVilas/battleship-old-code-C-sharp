@@ -7,12 +7,15 @@ Playable in the console, it's pure ASCII (also it's in spanish). There's nothing
 # Images
 
 ![image01](https://user-images.githubusercontent.com/96928935/168666617-a102c193-f7cb-42c0-b43b-025ee8da72cd.png)
+
 This is the "main menu", if you want to call it that.
 
-![image02](https://user-images.githubusercontent.com/96928935/168666643-595f5a4c-6274-4b6b-b84f-891bd49bdae3.png)
+![image02](https://user-images.githubusercontent.com/96928935/168666643-595f5a4c-6274-4b6b-b84f-891bd49bdae3.png
+
 And here is the board. The one with red frame is the enemy's, and the green one is the player. The boats only occupy one tile, it was hard to do alone, without even knowing what I was suposed to write in the internet search. I played a little, writing the X and Y coordinates to drop a bomb.
 
 ![image03](https://user-images.githubusercontent.com/96928935/168666671-0f208fe5-aa6e-4692-b573-687cbc2c7be2.png)
+
 Another screenshot of the board with a different size. Here the player choses width and height of the board before starting playing, 20 max to prevent ridiculously big boards.
 
 ---
